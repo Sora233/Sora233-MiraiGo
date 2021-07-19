@@ -22,7 +22,7 @@ require (
 	github.com/sirupsen/logrus v1.8.1
 	github.com/stretchr/testify v1.7.0
 	github.com/tidwall/buntdb v1.2.4
-	gocv.io/x/gocv v0.27.0
+	gocv.io/x/gocv v0.28.0
 )
 
 replace github.com/Logiase/MiraiGo-Template => github.com/Sora233/MiraiGo-Template v0.0.0-20210712123458-dea21fc94120
